@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="qnp-theme" Version="0.1.0" Publisher="ekqnp"/>
-    <DisplayName>QNP theme</DisplayName>
+    <DisplayName>qnp theme</DisplayName>
     <Description xml:space="preserve">Modified One Monokai theme</Description>
     <Tags>Vscode,Theme,Onedark,Monokai,theme,color-theme,qnp</Tags>
     <Categories>Themes</Categories>

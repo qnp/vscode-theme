@@ -1,4 +1,4 @@
-# QNP Theme
+# qnp theme
 
 Inspired by Joshua Azemoh’s [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai).
 
