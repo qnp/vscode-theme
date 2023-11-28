@@ -3,7 +3,7 @@
   <Metadata>
     <Identity Language="en-US" Id="qnp-theme" Version="0.1.0" Publisher="ekqnp"/>
     <DisplayName>QNP theme</DisplayName>
-    <Description xml:space="preserve">A cross between Monokai and One Dark theme</Description>
+    <Description xml:space="preserve">Modified One Monokai theme</Description>
     <Tags>Vscode,Theme,Onedark,Monokai,theme,color-theme,qnp</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
