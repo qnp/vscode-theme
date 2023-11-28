@@ -1,0 +1,32 @@
+{
+	"name": "qnp-theme",
+	"displayName": "QNP Theme",
+	"description": "Inspired by One Monokai",
+	"version": "0.1.0",
+	"publisher": "ekqnp",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "qnp theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/qnp-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"Vscode",
+		"Theme",
+		"Onedark",
+		"Monokai",
+    "qnp"
+	],
+	"author": "François Risoud <francois.risoud@gmail.com> (http://francoisrisoud.com)",
+	"license": "MIT"
+}
